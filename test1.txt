@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is AE0D-904C
-
- Directory of C:\Users\GOWRI SHANKER\Desktop\My project
-
-22-04-2019  19:53    <DIR>          .
-22-04-2019  19:53    <DIR>          ..
-22-04-2019  19:53                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  389,801,680,896 bytes free
+Hi shanker
